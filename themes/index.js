@@ -322,8 +322,8 @@ export const themes = {
     bg_color: "0D1117",
   },
   github_dark_dimmed: {
-    title_color: "539bf5",
-    icon_color: "539bf5",
+    title_color: "1E90FF",
+    icon_color: "1E90FF",
     text_color: "ADBAC7",
     bg_color: "24292F",
     border_color: "373E47",
